@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183177803518",
+    "project_id": "eduguidebase",
+    "storage_bucket": "eduguidebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183177803518:android:a5442d3c5c41fc753c97af",
+        "android_client_info": {
+          "package_name": "com.example.edugide_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx1_sXBUpp3apHKX8xVJZnS7RQunuWdzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

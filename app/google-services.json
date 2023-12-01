@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410501129894",
+    "project_id": "edugide-app",
+    "storage_bucket": "edugide-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410501129894:android:fec3fd5c1d187b69e7b667",
+        "android_client_info": {
+          "package_name": "com.example.edugide_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXnfRkBG2JAG4v86I_0E_JX8FBHmQahoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
